@@ -1,0 +1,15 @@
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.AssemblyInfoInputs.cache
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.AssemblyInfo.cs
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.csproj.CoreCompileInputs.cache
+C:\Users\vova_\source\repos\2lb\2lb\bin\Debug\net10.0\2lb.exe
+C:\Users\vova_\source\repos\2lb\2lb\bin\Debug\net10.0\2lb.deps.json
+C:\Users\vova_\source\repos\2lb\2lb\bin\Debug\net10.0\2lb.runtimeconfig.json
+C:\Users\vova_\source\repos\2lb\2lb\bin\Debug\net10.0\2lb.dll
+C:\Users\vova_\source\repos\2lb\2lb\bin\Debug\net10.0\2lb.pdb
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.dll
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\refint\2lb.dll
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.pdb
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.genruntimeconfig.cache
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\ref\2lb.dll
+C:\Users\vova_\source\repos\2lb\2lb\obj\Debug\net10.0\2lb.csproj.Up2Date
